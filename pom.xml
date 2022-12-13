@@ -8,7 +8,9 @@
 	<name>api-test</name>
 	<description>API test with rest assuered</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
+		<maven.compiler.source>11</maven.compiler.source>
+		<maven.compiler.target>11</maven.compiler.target>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
